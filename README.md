@@ -2,9 +2,8 @@
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
 
-Projeto construído no evento Imersão Dev da Alura.
+>Projeto construído no evento Imersão Dev da Alura.
 
 [Clique aqui para acessar](https://limanada.github.io/imersao-ALURA/)
 
