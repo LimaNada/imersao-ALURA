@@ -5,7 +5,7 @@
 
 >Projeto construído no evento Imersão Dev da Alura.
 
-[Clique aqui para acessar](https://limanada.github.io/imersao-ALURA/)
+[Clique aqui para acessar](https://limanada.github.io/imersao-Alura//)
 
 # 🖥️ Tecnologias
   - HTML
